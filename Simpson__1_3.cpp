@@ -1,3 +1,4 @@
+/******** Simpson 1/3 Method ********/
 #include<bits/stdc++.h>
 using namespace std;
 double f(double x)
